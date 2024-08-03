@@ -4,5 +4,5 @@ django-cors-headers==3.13.0
 setuptools>=40.0.0
 distlib>=0.3.0
 psycopg2-binary==2.9.3
-install flake8==6.0.0
+flake8==6.0.0
 flake8-isort==6.0.0
